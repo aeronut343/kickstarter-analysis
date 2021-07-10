@@ -9,11 +9,11 @@ This project seeks to analyze the results of Kickstarter campaigns based on thei
 
 ### Analysis of Outcomes Based on Launch Date
 This analysis counted the successful, failed, and canceled theater campaigns by launch date (per month) from the year 2009 to 2017. Looking at the image below it is clear that campaigns which were launched in May and June were the most successful by far. The least successful campaigns began in the winter months from December through March. If someone wanted to lauch a theater campaign on Kickstarter, they would find the most probable success if they launched it in late spring/early summer.
-![Theater_Outcomes_vs_Launch](kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.PNG)
 
 ### Analysis of Outcomes Based on Goals
 This analysis counted the successful, failed, and canceled theater plays campaigns by pledge goal. The goals were condensed into ranges to help visualize the results as seen in the line graph below. The highest percentage of successful theater plays campaigns are found in the less than $5000 and $35000 to $45000 ranges. This would suggest that lower goals tend to be more successful, with the exception of the $35000 - $45000 range. The higher range could be sweet spot for larger projects while the lower range could be the sweet spot for smaller productions.
-![Outcomes_vs_Goals](kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 No significant challenges or difficulties were encountered during this analysis. Possible difficulties could include formatting the pivot tables to show just the months (instead of years as well) and accidentally using filtered data to create a pivot table.
